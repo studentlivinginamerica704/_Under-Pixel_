@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Water
+    uniqueID: 3098682781
+    locked: 0
+  - name: Ground
+    uniqueID: 88613613
+    locked: 0
+  - name: Vegetation
+    uniqueID: 3804738609
+    locked: 0
+  - name: Player
+    uniqueID: 3278501113
+    locked: 0
+  - name: CollisionsObjects
+    uniqueID: 2914353037
+    locked: 0
