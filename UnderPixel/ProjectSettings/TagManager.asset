@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Collisions
   layers:
   - Default
   - TransparentFX
@@ -55,4 +56,7 @@ TagManager:
     locked: 0
   - name: CollisionsObjects
     uniqueID: 2914353037
+    locked: 0
+  - name: UpCollisions
+    uniqueID: 3500239229
     locked: 0

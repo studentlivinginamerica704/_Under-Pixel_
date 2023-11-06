@@ -13048,7 +13048,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -13056,6 +13056,27 @@ TextureImporter:
       bones: []
       spriteID: 2880daf6c2102e3499d463c4f139d5ec
       internalID: -1872294172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a13982422349204486a2e91476b26de
+      internalID: -574987366
       vertices: []
       indices: 
       edges: []
@@ -13071,10 +13092,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      topDown_baseTiles_524: 1972391228
       topDown_baseTiles_394: -1439066586
       topDown_baseTiles_59: -890952700
       topDown_baseTiles_423: -2015199400
-      topDown_baseTiles_604: 1920177782
       topDown_baseTiles_609: 1567032413
       Plant_1_B: 866494001
       Grass_2: -1372301348
@@ -13104,10 +13125,10 @@ TextureImporter:
       topDown_baseTiles_380: 962105060
       topDown_baseTiles_1: -1392699209
       topDown_baseTiles_238: 965967912
-      topDown_baseTiles_295: 518938664
-      topDown_baseTiles_55: 1893068013
-      topDown_baseTiles_81: 731821799
       topDown_baseTiles_279: 1324069243
+      topDown_baseTiles_295: 518938664
+      topDown_baseTiles_81: 731821799
+      topDown_baseTiles_55: 1893068013
       topDown_baseTiles_316: -1775813873
       topDown_baseTiles_128: 240880468
       topDown_baseTiles_579: 1907828206
@@ -13281,6 +13302,7 @@ TextureImporter:
       topDown_baseTiles_70: -1751351353
       topDown_baseTiles_249: -269641976
       topDown_baseTiles_455: 159268489
+      fire: -574987366
       topDown_baseTiles_77: 1631436440
       topDown_baseTiles_162: -417239424
       topDown_baseTiles_300: -1360471910
@@ -13687,7 +13709,7 @@ TextureImporter:
       topDown_baseTiles_267: -1067991590
       topDown_baseTiles_409: -1811445492
       topDown_baseTiles_499: 342238722
-      topDown_baseTiles_524: 1972391228
+      topDown_baseTiles_604: 1920177782
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
